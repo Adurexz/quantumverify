@@ -15,6 +15,9 @@
   },
   "name": "rover",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.3.0"
+  },
   "main": "src/index.js",
   "repository": "https://github.com/Adurexz/quantumverify",
   "author": "evaera",
